@@ -1,7 +1,7 @@
 # ProGramers - Single Page Application
 
 ## Demo
-Możesz zobaczyć działanie aplikacji tutaj: [ProGamers Demo] (https://filemonekk.github.io/ProGamers/)
+Możesz zobaczyć działanie aplikacji tutaj: [ProGamers Demo](https://filemonekk.github.io/ProGamers/)
 
 ## Overview
 **Programmers** is a Single Page Application (SPA) designed to provide a seamless and interactive experience for users. Built using HTML, CSS, and JavaScript, this web application dynamically updates the content without requiring a full page reload, ensuring fast and efficient performance.
@@ -19,7 +19,7 @@ Możesz zobaczyć działanie aplikacji tutaj: [ProGamers Demo] (https://filemone
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Filemonekk/ProGamers.git]
+   git clone https://github.com/Filemonekk/ProGamers.git
    ```
 2.  Open the index.html file in your browser to explore the application.
    
